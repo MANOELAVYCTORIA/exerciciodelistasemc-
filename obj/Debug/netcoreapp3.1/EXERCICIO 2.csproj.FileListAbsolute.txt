@@ -1,0 +1,13 @@
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\5 - Comportamento de Arrays\exercicios\EXERCICIO 2\EXERCICIO 2\bin\Debug\netcoreapp3.1\EXERCICIO 2.exe
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\5 - Comportamento de Arrays\exercicios\EXERCICIO 2\EXERCICIO 2\bin\Debug\netcoreapp3.1\EXERCICIO 2.deps.json
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\5 - Comportamento de Arrays\exercicios\EXERCICIO 2\EXERCICIO 2\bin\Debug\netcoreapp3.1\EXERCICIO 2.runtimeconfig.json
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\5 - Comportamento de Arrays\exercicios\EXERCICIO 2\EXERCICIO 2\bin\Debug\netcoreapp3.1\EXERCICIO 2.runtimeconfig.dev.json
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\5 - Comportamento de Arrays\exercicios\EXERCICIO 2\EXERCICIO 2\bin\Debug\netcoreapp3.1\EXERCICIO 2.dll
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\5 - Comportamento de Arrays\exercicios\EXERCICIO 2\EXERCICIO 2\bin\Debug\netcoreapp3.1\EXERCICIO 2.pdb
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\5 - Comportamento de Arrays\exercicios\EXERCICIO 2\EXERCICIO 2\obj\Debug\netcoreapp3.1\EXERCICIO 2.csprojAssemblyReference.cache
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\5 - Comportamento de Arrays\exercicios\EXERCICIO 2\EXERCICIO 2\obj\Debug\netcoreapp3.1\EXERCICIO 2.AssemblyInfoInputs.cache
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\5 - Comportamento de Arrays\exercicios\EXERCICIO 2\EXERCICIO 2\obj\Debug\netcoreapp3.1\EXERCICIO 2.AssemblyInfo.cs
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\5 - Comportamento de Arrays\exercicios\EXERCICIO 2\EXERCICIO 2\obj\Debug\netcoreapp3.1\EXERCICIO 2.csproj.CoreCompileInputs.cache
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\5 - Comportamento de Arrays\exercicios\EXERCICIO 2\EXERCICIO 2\obj\Debug\netcoreapp3.1\EXERCICIO 2.dll
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\5 - Comportamento de Arrays\exercicios\EXERCICIO 2\EXERCICIO 2\obj\Debug\netcoreapp3.1\EXERCICIO 2.pdb
+C:\Users\jemer\Desktop\programação manu\C COMPLETO\5 - Comportamento de Arrays\exercicios\EXERCICIO 2\EXERCICIO 2\obj\Debug\netcoreapp3.1\EXERCICIO 2.genruntimeconfig.cache
